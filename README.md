@@ -13,3 +13,7 @@ Instalación de un SO (Ubuntu) en la Raspberry PI 400.
 
 1. [Raspberry](https://www.raspberrypi.com)
 2. [Instalación](https://www.softzone.es/programas/linux/ubuntu-raspberry-pi/)
+
+## Licencia
+
+[Licencia](https://github.com/rubenamadoc/Proyecto/blob/47f1b1de17696eb600df6dced0807250309c504b/imagenes/licencia.png)
