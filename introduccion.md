@@ -8,6 +8,7 @@ A lo largo del tiempo han exisitdo distintas versiones de Raspberry. Actualmente
 2. Ram: 4 GB
 3. Display: dual, hasta 4k de visionado.
 
-Este ordenador viene totalmente integrado en el teclado, del cual te puedes conectar hasta dos pantallas a través de un cable hdmi. Viene en un paquete junto a un ratón, una tarjeta sd, los cables hdmi's, unos puertos USB portables y un manual de uso.
+Este ordenador viene totalmente integrado en el teclado, del cual te puedes conectar hasta dos pantallas a través de un cable hdmi. Viene en un paquete junto a un ratón, una tarjeta sd, los cables hdmi's, unos puertos USB portables y 
+un manual de uso.
 
-[Raspberry Pi 400](https://github.com/rubenamadoc/Proyecto/blob/abdb95a64ba940ffd73e91fa16e589fc80deeb49/imagenes/61kptGvqNqL._AC_SL1296_.png)
+[Raspberry Pi 400](https://github.com/rubenamadoc/Proyecto/blob/f2e75887b0b6b267a4909b2567a698dd66fdf3dd/imagenes/61kptGvqNqL._AC_SL1296_.png)
