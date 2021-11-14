@@ -6,7 +6,7 @@ Para la instalación es necesario contar con los siguientes elementos:
 1. Una microsd (viene incluida en el kit de Raspberry pi 400 mencionado anteriormente.)
 2. Un pc con la aplicación Raspberry Pi Imager.
 
-[Raspberry Pi Imager] ( ) Es un programa de codigo abierto que facilita la instalación de las principales distros para este micro-ordenador. Se puede descargar desde este [enlace](https://www.raspberrypi.com/software/)
+[Raspberry Pi Imager](https://github.com/rubenamadoc/Proyecto/blob/abdb95a64ba940ffd73e91fa16e589fc80deeb49/imagenes/RPI_intro-e1583228263677.png) Es un programa de codigo abierto que facilita la instalación de las principales distros para este micro-ordenador. Se puede descargar desde este [enlace](https://www.raspberrypi.com/software/)
 
 ## Tutorial
 

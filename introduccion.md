@@ -10,4 +10,4 @@ A lo largo del tiempo han exisitdo distintas versiones de Raspberry. Actualmente
 
 Este ordenador viene totalmente integrado en el teclado, del cual te puedes conectar hasta dos pantallas a través de un cable hdmi. Viene en un paquete junto a un ratón, una tarjeta sd, los cables hdmi's, unos puertos USB portables y un manual de uso.
 
-[Raspberry Pi 400]()
+[Raspberry Pi 400](https://github.com/rubenamadoc/Proyecto/blob/abdb95a64ba940ffd73e91fa16e589fc80deeb49/imagenes/61kptGvqNqL._AC_SL1296_.png)
