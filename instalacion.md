@@ -10,7 +10,7 @@ Para la instalación es necesario contar con los siguientes elementos:
 
 ## Tutorial
 
-Para instalar el SO en la microsd debemos seguir los siguientes pasos:
+Para instalar el SO en la microSD debemos seguir los siguientes pasos:
 
 1. Introducir la SD en la ranura de microSD correspondiente del pc.
 2. Ejecutar Raspberry Pi Imager.
